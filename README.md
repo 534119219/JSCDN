@@ -1,0 +1,2 @@
+# JSCDN
+自建前段JS/CSS CDN
